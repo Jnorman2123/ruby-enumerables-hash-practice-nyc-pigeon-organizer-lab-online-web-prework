@@ -1,9 +1,11 @@
 require 'pry'
 def nyc_pigeon_organizer(data)
-  data.each do |attribute|
-    # attribute.each do |
+  data.each do |attribute_name|
+    attribute_name.each do |attribute|
+      
     
-    # end
-    binding.pry 
+      binding.pry 
+    end
+    
   end 
 end
