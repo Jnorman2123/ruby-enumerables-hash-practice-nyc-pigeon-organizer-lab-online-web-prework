@@ -4,6 +4,6 @@ def nyc_pigeon_organizer(data)
     attribute.each do |
     
     end
-    
+    binding.pry 
   end 
 end
